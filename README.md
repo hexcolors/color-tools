@@ -1,2 +1,2 @@
-# color-tools
+# Color Tools
 Online Color Tools
